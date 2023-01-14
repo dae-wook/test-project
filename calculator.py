@@ -6,3 +6,6 @@ def multi(a, b):
 
 def sub(a, b):
     return a - b
+
+def hello():
+    print('hello')
